@@ -1,3 +1,7 @@
 [
-  { "deviceId": "DEV-82501", "activationKey": "123456" },
+  {
+    "deviceId": "DEV-82501",
+    "activationKey": "123456"
+  }
 ]
+
