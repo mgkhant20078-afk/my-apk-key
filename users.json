@@ -1,0 +1,4 @@
+[
+  { "deviceId": "DEV-12345", "activationKey": "KEY-999" },
+  { "deviceId": "DEV-88888", "activationKey": "STAGE-PRO" }
+]
